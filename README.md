@@ -4,6 +4,7 @@ Mini project to train on HTML/CSS
 ### Screenshot
 
 url(https://i.goopics.net/jgbu8q.jpg)
+
 url(https://i.goopics.net/oa6tq3.png)
 
 
